@@ -1,10 +1,12 @@
 # irc-bootcamp-programming
+
 ## Identitas 
 - Muhammad Fatih Pramana
 - fpramana555@gmail.com
 - G7401241032
 - Transporter
 - Programming
+  
 ## Resume bootcamp
 ### 1. Pengenalan Divisi Pemrograman
 Divisi ini bertugas memberi "otak" kepada robot, seperti:
@@ -30,9 +32,29 @@ Subdivisi:
 - *Operator:* Aritmatika, Perbandingan, Boolean
 - *Control Statements*: if, while, fo
 
-### 4. Tambahan pengaplikasian
+### 4. Toolchain
+- Arduino IDE, PyCharm, VS Code, PlatformIO, Roboflow, Google Colab
+- Pilihan tool disesuaikan dengan kebutuhan proyek
+
+### 5. GitHub & Version Control
+- Perintah Git dasar:
+  - git init, git add, git commit, git push, git pull
+- File README.md sebagai dokumentasi proyek
+
+### 6. Embedded System
+Sistem komputer tertanam untuk menjalankan tugas khusus, contohnya:
+- Arduino Board
+- ESP32 Board
+- STM32
+- Raspberry Pi
+
+### 7. Tambahan pengaplikasian
 - Wokwi
 - VS Code
+
+### 8. Dokumentasi
+![Uploading WhatsApp Image 2025-05-12 at 20.33.48_2a4ad092.jpg…]()
+
 ## Penjelasan kode 
 ### Arduino (https://wokwi.com/projects/430669176495551489)
 1. Import dan variabel global
@@ -51,6 +73,7 @@ Subdivisi:
 5. Servo bergerak halus setiap 15 ms
 - servo bergerak satu derajat tiap 15ms, gerakan halus dan konstan
 - jika mencapai 0 atau 180 derajat, arah dibalik
+  
 ### Python
 1. Import library
 - mengimpor library OpenCV (cv2) untuk pemrosesan gambar dan video
