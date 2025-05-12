@@ -1,13 +1,13 @@
 # irc-bootcamp-programming
-  ##Identitas 
-    - Muhammad Fatih Pramana
-    - fpramana555@gmail.com
-    - G7401241032
-    - Transporter
-    - Programming
-  ##Resume bootcamp
-  ##Penjelasan kode 
-    ###Arduino (https://wokwi.com/projects/430669176495551489)
+## Identitas 
+- Muhammad Fatih Pramana
+- fpramana555@gmail.com
+- G7401241032
+- Transporter
+- Programming
+## Resume bootcamp
+## Penjelasan kode 
+### Arduino (https://wokwi.com/projects/430669176495551489)
     1. Import dan variabel global
       - Servo myservo: membuat objek servo
       - pos: posisi sudut servo
@@ -24,7 +24,7 @@
     5. Servo bergerak halus setiap 15 ms
       - servo bergerak satu derajat tiap 15ms, gerakan halus dan konstan
       - jika mencapai 0 atau 180 derajat, arah dibalik
-    ###Python
+### Python
     1. Import library
       - mengimpor library OpenCV (cv2) untuk pemrosesan gambar dan video
     2. Load model deteksi wajah
