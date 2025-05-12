@@ -6,6 +6,33 @@
 - Transporter
 - Programming
 ## Resume bootcamp
+### 1. Pengenalan Divisi Pemrograman
+Divisi ini bertugas memberi "otak" kepada robot, seperti:
+- Mengendalikan gerakan
+- Memproses data dari sensor
+- Mengambil keputusan
+Subdivisi:
+- Ground Control Station (GCS)
+- Programming Transporter
+- Programming VTOL
+  
+### 2. Keterampilan Teknis
+- *Bahasa:* C/C++, Python  
+- *Perangkat:* Motor, Servo, Sensor IR  
+- *Protokol Komunikasi:* UART, I2C, SPI, Bluetooth/Wi-Fi  
+- *Mikrokontroler:* Arduino, ESP32, STM32, Raspberry Pi
+
+### 3. Konsep Dasar Pemrograman
+- *Flowchart & Pseudocode* sebagai dasar algoritma
+- *Variabel & Tipe Data:*  
+  - C/C++: eksplisit (int, float, char)  
+  - Python: dinamis (int, float, str)
+- *Operator:* Aritmatika, Perbandingan, Boolean
+- *Control Statements*: if, while, fo
+
+### 4. Tambahan pengaplikasian
+- Wokwi
+- VS Code
 ## Penjelasan kode 
 ### Arduino (https://wokwi.com/projects/430669176495551489)
 1. Import dan variabel global
